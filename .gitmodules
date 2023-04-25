@@ -1,0 +1,3 @@
+[submodule "gold-loan"]
+	path = gold-loan
+	url = ./gold-loan
